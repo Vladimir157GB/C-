@@ -12,7 +12,11 @@ if (number1 > number2)
 {
 Console.Write(($"Число {number1} больше чем число {number2}"));
 }
-else
+else if (number1 < number2)
 {
    Console.Write(($"Число {number2} больше чем число {number1}"));
+}
+else
+{
+  Console.Write(("Числа равны")); 
 }
