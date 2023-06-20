@@ -5,7 +5,7 @@
 //23432 -> да
 
 Console.Write("Введите число: ");
-string number = Console.ReadLine();
+string? number = Console.ReadLine();
 
 void CheckingNumber(string number)
 {
