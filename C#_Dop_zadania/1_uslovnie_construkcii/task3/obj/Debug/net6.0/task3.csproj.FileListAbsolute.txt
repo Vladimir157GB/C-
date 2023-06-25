@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\bin\Debug\net6.0\task3.exe
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\bin\Debug\net6.0\task3.deps.json
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\bin\Debug\net6.0\task3.dll
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\bin\Debug\net6.0\task3.pdb
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\obj\Debug\net6.0\task3.dll
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\obj\Debug\net6.0\refint\task3.dll
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\obj\Debug\net6.0\task3.pdb
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\1_uslovnie_construkcii\task3\obj\Debug\net6.0\ref\task3.dll
