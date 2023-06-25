@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\bin\Debug\net6.0\task2.exe
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\bin\Debug\net6.0\task2.deps.json
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\bin\Debug\net6.0\task2.dll
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\bin\Debug\net6.0\task2.pdb
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\obj\Debug\net6.0\task2.dll
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\obj\Debug\net6.0\refint\task2.dll
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\obj\Debug\net6.0\task2.pdb
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+C:\Users\admin\Documents\GB\Lesson_C#\C#_Dop_zadania\2_Vvod_i_vivod_dannih\Prosteichie_programmi\task2\obj\Debug\net6.0\ref\task2.dll
